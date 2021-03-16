@@ -1,2 +1,2 @@
-# Portfolio
-My portfolio featuring my greatest work. Coded in HTML, CSS and JavaScript.
+# React
+If you are learning, or trying to learn, React, then you're at the right place. Here you will find everything I have coded on my React Learning journey.
