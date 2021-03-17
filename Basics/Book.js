@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDom from 'react-dom'
-
+// "Book" can be re used
 function BookList(){
   return( 
   <section> 
@@ -8,7 +8,7 @@ function BookList(){
   </section>
   );
 }
-
+// Nesting Components
 const Book = () => {
   return <article>
     <Image/>
