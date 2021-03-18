@@ -29,7 +29,7 @@ const Book = () => {
 
 const Image = () => <img src="https://images-na.
 ssl-images-amazon.com/images/I/71xLmdLOQ0L.
-_AC_UL200_SR200,200_.jpg" alt="I here am not one destroyed piece of shit"/>
+_AC_UL200_SR200,200_.jpg" alt="Image of Book"/>
 
 const Title = () => <h1>12 More Rules for Life</h1>
 const Author = () => <h4>Jordan Peterson</h4>
